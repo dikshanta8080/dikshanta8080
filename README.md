@@ -25,6 +25,18 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ---
 
+# ⚙️ Tools:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+
+
+---
+
 # 📊 GitHub Stats:
 ![Dikshanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshyant07&show_icons=true&count_private=true&theme=dark)
 
@@ -32,13 +44,10 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshyant07&layout=compact&theme=dark)
 
-
-
 ---
 
 # 🔝 Top Contributed Repo
 ![Top Repositories](https://github-contributor-stats.vercel.app/api?username=dikshyant07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
