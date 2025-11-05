@@ -40,7 +40,7 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 # 📊 GitHub Stats:
 ![Dikshanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshyant07&show_icons=true&count_private=true&theme=dark)
 
-![Dikshanta's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshyant07&theme=dark)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshyant07&layout=compact&theme=dark)
 
