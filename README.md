@@ -1,9 +1,10 @@
 # 💫 About Me:
 Student | Passionate about Backend Development | Exploring Java, Spring Boot & APIs  
 
-🌱 Currently learning Spring Boot, React, and the Spring Ecosystem (Spring Security, Spring Data JPA)
-⚙️ Focused on writing clean and maintainable code using DTOs, validators, and proper project structure
-🔒 Goal: To build secure and efficient backend applications
+🌱 Currently learning Spring Boot, React, and the Spring Ecosystem (Spring Security, Spring Data JPA)  
+⚙️ Focused on writing clean and maintainable code using DTOs, validators, and proper project structure  
+🔒 Goal: To build secure and efficient backend applications  
+
 ---
 
 # 🌐 Socials:
@@ -32,21 +33,17 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-
-
 ---
 
 # 📊 GitHub Stats:
-![Dikshanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshyant07&show_icons=true&count_private=true&theme=dark)
+![Dikshanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshanta8080&show_icons=true&count_private=true&theme=dark)
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshyant07&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanta8080&layout=compact&theme=dark)
 
 ---
 
 # 🔝 Top Contributed Repo
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=dikshyant07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=dikshanta8080&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -55,4 +52,4 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dikshyant07&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dikshanta8080&icon=0&color=0)](https://visitcount.itsvg.in)
