@@ -21,7 +21,7 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
+![Servlet](https://img.shields.io/badge/Servlet-4E8DF5?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -32,6 +32,8 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ---
 
