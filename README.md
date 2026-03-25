@@ -1,3 +1,9 @@
+### 🧠 Currently Exploring 
+
+- Java and exploring the Spring Boot ecosystem  
+  
+
+---
 
 ### 💻 Tech Stack  
 
@@ -15,6 +21,14 @@
 
 ---
 
+### 🟩 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanta8080&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### 🌐 Connect With Me  
 
 <p align="center">
@@ -22,9 +36,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### ⚡ Fun Fact  
-
-I enjoy building backend systems and understanding how things work behind the scenes 🚀
