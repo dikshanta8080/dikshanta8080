@@ -8,7 +8,7 @@
 ### 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,linux,postman" />
 </p>
 
 ---
