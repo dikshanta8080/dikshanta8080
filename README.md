@@ -10,6 +10,7 @@
 </p>
 
 ---
+<img width="1000" height="756" alt="271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5" src="https://github.com/user-attachments/assets/12318e06-71c0-40f2-8b04-3586bbe3b68a" />
 
 ### 🧠 About Me
 - 🎓 Student passionate about building real-world backend systems
